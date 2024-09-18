@@ -1,7 +1,8 @@
 # -CodSoft-internship
 This repository showcases a series of projects developed during my internship at CodSoft. The tasks included creating a variety of applications that demonstrate different programming skills and problem-solving techniques.
 
-Projects
+Projects:
+
 Number Game: A fun and interactive game that challenges users to guess a randomly generated number within a specified range.
 
 Student Grade Calculator: A tool that calculates and displays student grades based on input scores, allowing for easy tracking of academic performance.
